@@ -1,0 +1,112 @@
+* {
+    border: 2px solid red;
+}
+
+body {
+    font-family: tahoma;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.header ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+li > a {
+    text-decoration: none;
+}
+
+.header, .first-container {
+    background-color: #1F2937;
+}
+
+.first-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.first-container-one {
+
+}
+
+.first-container-two {
+
+}
+
+.first-container-two > img {
+
+}
+
+.second-container {
+
+}
+
+.second-container .title {
+
+}
+
+.second-container-one {
+
+}
+
+.second-container-one > img {
+
+}
+
+.third-container {
+
+}
+
+.third-container .quote {
+
+}
+
+.third-container .qatt {
+
+}
+
+.forth-container {
+
+}
+
+.forth-container .banner {
+
+}
+
+.banner .element-one {
+
+}
+
+.element-one .banner-title {
+
+}
+
+.element-one .banner-text {
+
+}
+
+.banner .element-two {
+
+}
+
+.banner button {
+
+}
+
+.footer {
+
+}
+
+.footer .copy {
+
+}
